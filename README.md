@@ -1,8 +1,13 @@
 # YouTube Clone Project
 
+## Demo
+
+Check out the live demo [here](https://yogendrabhammarkar57.github.io/Youtube-Clone/).
+
 This is a simple YouTube clone project created solely with HTML and CSS. It aims to replicate the basic functionalities and layout of the YouTube website using only front-end technologies.
 
 ![YouTube Clone Screenshot](Screenshot.png)
+
 ## Features
 
 - Responsive design: The clone is designed to be responsive and adaptable to different screen sizes.
