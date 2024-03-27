@@ -2,8 +2,7 @@
 
 This is a simple YouTube clone project created solely with HTML and CSS. It aims to replicate the basic functionalities and layout of the YouTube website using only front-end technologies.
 
-![YouTube Clone Screenshot](images/Screenshot (74).png)
-
+![YouTube Clone Screenshot](Screenshot.png)
 ## Features
 
 - Responsive design: The clone is designed to be responsive and adaptable to different screen sizes.
